@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi there 👋 My name is SITHUMI 🌟🤩
 
-<!--
-**sithumigamage/sithumigamage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+##  DEVELOPER & DESIGNER 💻
+
+I am a computer science undergraduate. I have a strong understanding of React.js, Html,CSS, PHP, and MySQL. I also have experience with other technologies like Next.js, Bootstrap, Firebase and Node.js. 
+
+I am passionate about building high-quality websites and web applications. I am also a team player and work effectively with others to achieve goals.
+
+- 🌍 I'm based in [colombo]
+- 📧 Contact me: [sithumigamage12@gmail.com]
+- 💡 Currently learning: `Java` and `UI/UX`
+- 🤝 Open to collaboration opportunities!
+
+## Skills 🚀
+
+
+![Python] 🐍
+![Java] ☕️
+![JavaScript]
+![React]
+![Node.js]
+![HTML,CSS]
+...
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🌐 Find Me Online  
+- 💼 [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) 
