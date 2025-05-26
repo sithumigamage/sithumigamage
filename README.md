@@ -29,4 +29,7 @@ I am also a team player and work effectively with others to achieve goals.
 - 💬 Ask me about ...
 
 ## 🌐 Find Me Online  
-- 💼 [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) 
+- 💼 [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
+
+  💻 🔥 ⭐ ✨ 🚀 🎯 📫 👩‍💻
+
