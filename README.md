@@ -3,9 +3,11 @@
 
 ##  DEVELOPER & DESIGNER 💻
 
-I am a computer science undergraduate. I have a strong understanding of React.js, Html,CSS, PHP, and MySQL. I also have experience with other technologies like Next.js, Bootstrap, Firebase and Node.js. 
+I am a computer science undergraduate, with a strong passion for building high-quality websites and web applications. I enjoy working across both frontend and backend development, bringing ideas to life with modern technologies and clean, maintainable code.
 
-I am passionate about building high-quality websites and web applications. I am also a team player and work effectively with others to achieve goals.
+In addition to development, I’m also passionate about Quality Assurance. I believe that ensuring software reliability, performance, and user satisfaction is just as important as building new features. My goal is to deliver smooth, functional, and bug-free user experiences across all platforms.
+
+I am also a team player and work effectively with others to achieve goals.
 
 - 🌍 I'm based in [colombo]
 - 📧 Contact me: [sithumigamage12@gmail.com]
