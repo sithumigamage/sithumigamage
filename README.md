@@ -16,14 +16,12 @@ I am also a team player and work effectively with others to achieve goals.
 
 ## Skills 🚀
 
+- Frontend: React.js, HTML, CSS, Bootstrap, Next.js
+- Backend: PHP, Node.js, Firebase, Python
+- Database: MySQL, MongoDB
+- Other Skills: UI/UX design,Figma,Canva, responsive development
 
-![Python] 🐍
-![Java] ☕️
-![JavaScript]
-![React]
-![Node.js]
-![HTML,CSS]
-...
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
