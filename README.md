@@ -21,6 +21,15 @@ I am also a team player and work effectively with others to achieve goals.
 - Database: MySQL, MongoDB
 - Other Skills: UI/UX design,Figma,Canva, responsive development
 
+## Soft Skills🧠
+- 🤝 Team Collaboration & Communication  
+- 💡 Critical Thinking & Problem Solving  
+- ⏱️ Time Management & Task Prioritization  
+- 🔍 Attention to Detail  
+- 💬 Presentation & Public Speaking    
+- ✅ Quality-Oriented Mindset  
+- 🧘 Positive Attitude & Work Ethic  
+
 ## Glowing ⭐
 
 - 🔭 I’m currently working on ...
