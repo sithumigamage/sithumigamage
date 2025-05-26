@@ -9,7 +9,7 @@ I am passionate about building high-quality websites and web applications. I am 
 
 - 🌍 I'm based in [colombo]
 - 📧 Contact me: [sithumigamage12@gmail.com]
-- 💡 Currently learning: `Java` and `UI/UX`
+- 💡 Currently learning: `ML` and `AI`
 - 🤝 Open to collaboration opportunities!
 
 ## Skills 🚀
