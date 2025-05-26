@@ -21,7 +21,7 @@ I am also a team player and work effectively with others to achieve goals.
 - Database: MySQL, MongoDB
 - Other Skills: UI/UX design,Figma,Canva, responsive development
 
-
+# Glowing ⭐
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
