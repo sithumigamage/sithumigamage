@@ -12,7 +12,7 @@ I am also a team player and work effectively with others to achieve goals.
 - 🌍 I'm based in [colombo]
 - 📧 Contact me: [sithumigamage12@gmail.com]
 - 💡 Currently learning: `ML` and `AI`
-- 🤝 Open to collaboration opportunities!
+- 🤝 Open to Internships and collaboration opportunities!
 
 ## Skills 🚀
 
